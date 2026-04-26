@@ -41,4 +41,4 @@ Generative AI impact of scaling in LLMs.
 
 
 ## Result
-
+The experiment showed that prompt design greatly improves the quality of outputs from LLMs. It successfully demonstrated Generative AI concepts, architectures, applications, and scaling impacts
